@@ -5,7 +5,8 @@
 
 <br>
 
-Welcome, this is our project for Polkadot LATAM Hackathon.
+Welcome, this is our project for Encode x Polkadot
+Spring 2023 Hackathon.
 
 # IMPORTANT!
 
@@ -71,7 +72,7 @@ System's Architecture:
   
   <img src="https://i.ibb.co/vsR05Pj/vlcsnap-2023-04-23-18h14m12s756.png" width="32%">
 
-- Through Acala EVM+ we can also make transfers directly between Acala EVM+ Wallets.
+- Through Acala EVM+ we can also make transfers directly between Wallets.
 
   - First we must click on the pay button.
   

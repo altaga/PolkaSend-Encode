@@ -50,9 +50,15 @@ System's Architecture:
 
 <img src="https://i.ibb.co/v1Rk2LF/Scheme-drawio-4.png">
 
-- All Acala EVM+ transactions are controlled through [web3.js](https://web3js.readthedocs.io/en/v1.8.0/) and [WalletConnect](https://walletconnect.com/) on mainnet.
+- All Acala EVM+ transactions and interactions with predeploy ERC20 contracts are controlled through [web3.js](https://web3js.readthedocs.io/en/v1.8.0/) and [WalletConnect](https://walletconnect.com/) on mainnet.
 
 - Thanks to the Rapyd APIs we can manage users, checkout, swap and KYC of our app. (https://www.rapyd.net/)
+
+- Wallet Connect se utiliza como conexion segura para transmitir las transacciones de POS a la Wallet, esta conexion es similar a un WebSocketSecure y es ampliamente adoptado en las wallets EVM.
+
+- ChainLink se utiliza como un feed de precios de cada una de los assets mas populares en el mercado de las cryptomonedas.
+
+- Swap es la unica seccion de nuestra plataforma que coordinamos los servicios de Fiat y Crypto para relizar cambio de cryptomonedas a dolares, siendo este case ACA a USD.
 
 # Main App Screens:
 

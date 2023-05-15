@@ -44,7 +44,7 @@ It is important to mention that, according to the World Bank, 65% of Mexican adu
 
 # Solution
 
-PolkaSend is a Mobile-First wallet, cash out ramp and Point of Sale Superapp. We combine TradFi through Rapyd with Web3 to improve Financial Inclusion in Mexico and LATAM
+Polkasend is an Acala EVM+ based Mobile-First wallet, cash out and Point of Sale Superapp that combines TradFi through Rapyd with Web3 and Polkadot's based services.
 
 System's Architecture:
 
